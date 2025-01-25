@@ -1,3 +1,4 @@
+//claculate income tax.
 import java.util.*;
 
 public class income {
