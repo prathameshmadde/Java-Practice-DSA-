@@ -1,5 +1,5 @@
 import java.util.*;
-public class qfactorial {
+public class qfactorial2 {
  
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
@@ -11,6 +11,6 @@ public class qfactorial {
             sum=sum*i;
         }
         System.out.println("Factorial of n is = " + n);
-        
+
     }
 }
