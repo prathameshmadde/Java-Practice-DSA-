@@ -1,4 +1,4 @@
-
+//check no is prime or not . 
 import java.util.*;
 public class primenumber5 {
     public static void main(String args[]) {
