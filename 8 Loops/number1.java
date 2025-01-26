@@ -1,5 +1,5 @@
-//Print no. form 1 to 10.
-public class number{
+//Print no. form 1 to 10 using while loop.
+public class number1{
     public static void main(String[] args) {
         int count=1;
         while(count<=10){
