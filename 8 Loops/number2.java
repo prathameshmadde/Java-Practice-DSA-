@@ -1,4 +1,4 @@
-//Print no. form 1 to n uisng while loop 
+//Print no. form 1 to n using while loop
 import java.util.*;
 public class number2 {
     public static void main(String[] args) {
