@@ -14,6 +14,6 @@ public class numrev4 {
             n=n/10;
         }
         System.out.println("reverse = "+ rev);
-
+        sc.close();
     }
 }

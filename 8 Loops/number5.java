@@ -12,5 +12,6 @@ public class number5 {
             }
             System.out.println(n);
         }while(true);
+       
     }
 }

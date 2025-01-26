@@ -25,6 +25,8 @@ public class question2 {
 
             System.out.println("Sum of even numbers = "+evenSum);
             System.out.print("Sum of odd numbers = "+oddSum);
+
+            sc.close();
             
         }
 }

@@ -10,5 +10,6 @@ public class number2 {
             System.out.println(count);
             count++;
         }
+        sc.close();
     }
 }

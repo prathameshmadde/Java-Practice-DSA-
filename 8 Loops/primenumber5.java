@@ -19,5 +19,6 @@ public class primenumber5 {
             else{
                 System.out.println("Prime No.");
             }
+            sc.close();
         }
     }
