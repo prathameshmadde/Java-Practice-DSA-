@@ -13,5 +13,6 @@ public class number3 {
             
         }
         System.out.println("sum = "+ sum);
+        sc.close();
     }
 }
