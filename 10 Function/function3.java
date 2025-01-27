@@ -1,3 +1,4 @@
+//Product of a and b.
 import java.util.Scanner;
 
 public class function3 {
