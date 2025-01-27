@@ -32,6 +32,6 @@ public class week {
             break;}
 
             System.out.println(a);
-
+        sc.close();
     }    
 }

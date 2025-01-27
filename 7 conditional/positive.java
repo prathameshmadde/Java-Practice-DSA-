@@ -11,6 +11,6 @@ public class positive {
         else {
             System.out.println("a is negative no . ");
         }
-
+    sc.close();
     }
 }

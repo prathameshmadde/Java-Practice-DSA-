@@ -19,6 +19,6 @@ public class income {
             
         }
     System.out.println("Income tax  = "+ tax1);
-        
+        sc.close();
    }
 }

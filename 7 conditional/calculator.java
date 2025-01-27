@@ -25,6 +25,6 @@ public class calculator {
         }
         System.out.println(ans);
 
-  
+  sc.close();
     }
 }

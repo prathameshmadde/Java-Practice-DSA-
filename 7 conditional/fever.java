@@ -11,6 +11,6 @@ public class fever {
         else {
             System.out.println("You dont have Fever.");
         }
-    
+    sc.close();
     }
 }
