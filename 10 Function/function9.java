@@ -1,9 +1,9 @@
-//Binary to Decimal no.
+// Decimal no. to Binary no.
 public class function9 {
     
     public static void dectobinary(int n){
         int bi =0;
-        
+
         int pow=0;
         while (n>0){
         int r = n%2;
