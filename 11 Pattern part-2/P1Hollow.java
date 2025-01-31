@@ -2,11 +2,15 @@
 // *       *
 // *       *
 // * * * * *
+//import java.util.*;
+
+import java.util.Scanner;
+
 public class P1Hollow {
-    public static void main(String[] args) {
-        for(int i=0;i<4;i++){
-            for(int j=0;j<5;j++){
-                if (i==0 || i==3 || j==0 || j==4){
+    public static void pattern(int x,int y){
+        for(int i=1;i<=x;i++){
+            for(int j=1;j<=y;j++){
+                if (i==1 || i== x|| j==1 || j==y){
                     System.out.print(" *");
                 }
                 else{
@@ -15,6 +19,16 @@ public class P1Hollow {
             }
             System.out.println();
         }
+    }
+
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter x (no. of row )= ");
+        int x=sc.nextInt();
+        System.out.println("Enter y (no.of column )= ");
+        int y=sc.nextInt();
+        pattern(x, y);
+        
     }
     
 }
