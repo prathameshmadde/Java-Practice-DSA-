@@ -12,14 +12,11 @@ public class A2_LargestinArray {
         }       
         System.out.println("Largest vlaue = "+largest);
         System.out.println("Smallest vlaue = "+smallest);
-        
     }
-    
     public static void main(String[] args) {
         int rollno[]={1,5,3,8,2,9,7};
         int smallest= Integer.MAX_VALUE;
         int largest = Integer.MIN_VALUE;
-        largestvalue(rollno,largest,smallest);
-        
+        largestvalue(rollno,largest,smallest);  
     }
 }
