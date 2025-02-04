@@ -1,6 +1,6 @@
 //Maximum subarray sum .
 public class A8_MaxSubarraySum{
-    
+   
     public static void maxsubarraySum(int arr[]){
         int currentsum=0;
         int maxsum=Integer.MIN_VALUE; 
@@ -15,14 +15,14 @@ public class A8_MaxSubarraySum{
                 System.out.println();
                 if (currentsum>maxsum){
                     maxsum=currentsum;
-                }
+                } 
                 System.out.println("currentsum = "+currentsum);
             }
             System.out.println();
-
+            
         }
         System.out.print("Maximum subarray sum ="+maxsum);
-
+    
     }
     
     
