@@ -1,4 +1,4 @@
-
+//Trapping rain water drops . 
 public class A11_TrappingRainWater {
      
     public static int trappedRainwater(int height[]){
