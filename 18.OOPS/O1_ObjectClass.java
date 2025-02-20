@@ -2,8 +2,10 @@
 public class O1_ObjectClass {
 
     public static void main(String[] args) {
-        Pen p1 = new Pen();
-        p1.setColor("blue");
+        
+        Pen p1 = new Pen();//Pen constructor. - p1 object created.
+
+        p1.setColor("blue");//function call form class
         System.out.println(p1.color);
         p1.setTip(5);
         System.out.println(p1.tip);
