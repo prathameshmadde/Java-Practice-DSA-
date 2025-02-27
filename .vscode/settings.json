@@ -1,3 +1,16 @@
 {
-    "java.debug.settings.onBuildFailureProceed": true
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "9.Pattern part-1",
+        "8.Loops",
+        "7.conditional",
+        "5.javabasic",
+        "18.OOPS",
+        "13.Sorting",
+        "12.Arrays",
+        "11.Pattern part-2",
+        "10.Function",
+        ".vscode",
+        "15.2D Array"
+    ]
 }
