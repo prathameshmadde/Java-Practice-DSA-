@@ -15,7 +15,7 @@ public class S1_BubbleSort {
            }
         }
         for (int idx = 0; idx < arr.length; idx++) {
-            System.out.println(arr[idx]);  
+            System.out.println(arr[idx]) ;  
         }
     }
     

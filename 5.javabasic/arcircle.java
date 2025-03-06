@@ -2,7 +2,7 @@
 import java.util.*;
 
 public class arcircle {
-    public static void main (String arg[]){
+    public static void main (String args[]){
 
         double pi= 3.14;
         final Scanner sc = new Scanner(System.in);
