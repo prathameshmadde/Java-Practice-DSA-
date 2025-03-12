@@ -1,5 +1,5 @@
 // Search in Sorted Matrix
-    
+
 class A5_SearchinSortedMatrix{
     public static boolean staircaseSearch(int matrix[][],int key){
         int row = 0;
